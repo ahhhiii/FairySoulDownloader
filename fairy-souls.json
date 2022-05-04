@@ -1,0 +1,2196 @@
+{
+  "HUB": [
+    {
+      "position": {
+        "x": -80,
+        "y": 70,
+        "z": -87
+      },
+      "location": "HUB",
+      "description": "Village (Behind Relenter\u0027s House, on border with graveyard)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 72,
+        "y": 70,
+        "z": -97
+      },
+      "location": "HUB",
+      "description": "Village (In rose bush, Next to the village fishing pond)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -48,
+        "y": 90,
+        "z": -71
+      },
+      "location": "HUB",
+      "description": "Village (In tree, above Bazaar and Lumber Merchant)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -52,
+        "y": 70,
+        "z": -99
+      },
+      "location": "HUB",
+      "description": "Village (Under Auction House, stand in bush at -50,?70,?-101)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 41,
+        "y": 68,
+        "z": -63
+      },
+      "location": "HUB",
+      "description": "Village (Under Alchemist\u0027s Building, stand at 38 ,?68,?-65)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -23,
+        "y": 88,
+        "z": -62
+      },
+      "location": "HUB",
+      "description": "Village (On top of Bank)",
+      "extraInfo": "(Requires enderpearls or grappling hook gadget)"
+    },
+    {
+      "position": {
+        "x": -19,
+        "y": 90,
+        "z": -11
+      },
+      "location": "HUB",
+      "description": "Village (On the rock to the right of the Flower House)",
+      "extraInfo": "(Requires Parkour)"
+    },
+    {
+      "position": {
+        "x": 25,
+        "y": 82,
+        "z": -133
+      },
+      "location": "HUB",
+      "description": "In the water tower next to the Hub Farm",
+      "extraInfo": "(Large hitbox, can be clicked from underneath)"
+    },
+    {
+      "position": {
+        "x": -17,
+        "y": 65,
+        "z": -109
+      },
+      "location": "HUB",
+      "description": "Inside the Village Well",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 25,
+        "y": 80,
+        "z": -65
+      },
+      "location": "HUB",
+      "description": "Village (on a beam by stairs inside the Farmhouse)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 44,
+        "y": 69,
+        "z": -35
+      },
+      "location": "HUB",
+      "description": "Village (Redstone House, inside fireplace)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 154,
+        "y": 98,
+        "z": -36
+      },
+      "location": "HUB",
+      "description": "Colosseum (On top one of the Colosseum\u0027s pillars)",
+      "extraInfo": "(Requires enderpearls or grappling hook gadget)"
+    },
+    {
+      "position": {
+        "x": 168,
+        "y": 60,
+        "z": -36
+      },
+      "location": "HUB",
+      "description": "Colosseum (In the middle of the Colosseum, walk through the eastern door, and go down the stairs. Continue until you reach a room with fire. The soul is in the leaves at the around the back to the right",
+      "extraInfo": "(Requires parkour)"
+    },
+    {
+      "position": {
+        "x": 110,
+        "y": 67,
+        "z": 58
+      },
+      "location": "HUB",
+      "description": "Wilderness (Under the bridge)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 138,
+        "y": 66,
+        "z": 129
+      },
+      "location": "HUB",
+      "description": "Wilderness (Behind left of Tia, under the tree)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 132,
+        "y": 144,
+        "z": 114
+      },
+      "location": "HUB",
+      "description": "Wilderness (On the top of the tallest tree)",
+      "extraInfo": "(Climb leaves)"
+    },
+    {
+      "position": {
+        "x": 111,
+        "y": 120,
+        "z": 127
+      },
+      "location": "HUB",
+      "description": "Wilderness (In the tree)",
+      "extraInfo": "(Climb leaves)"
+    },
+    {
+      "position": {
+        "x": 148,
+        "y": 112,
+        "z": 88
+      },
+      "location": "HUB",
+      "description": "Wilderness (In the tree)",
+      "extraInfo": "(Climb leaves)"
+    },
+    {
+      "position": {
+        "x": 149,
+        "y": 116,
+        "z": 115
+      },
+      "location": "HUB",
+      "description": "Wilderness (In the tree)",
+      "extraInfo": "(Climb leaves)"
+    },
+    {
+      "position": {
+        "x": 113,
+        "y": 102,
+        "z": 106
+      },
+      "location": "HUB",
+      "description": "Wilderness (In the tree)",
+      "extraInfo": "(Climb leaves)"
+    },
+    {
+      "position": {
+        "x": 96,
+        "y": 106,
+        "z": 121
+      },
+      "location": "HUB",
+      "description": "Wilderness (In the tree)",
+      "extraInfo": "(Climb leaves)"
+    },
+    {
+      "position": {
+        "x": 87,
+        "y": 77,
+        "z": 43
+      },
+      "location": "HUB",
+      "description": "Wilderness (In the tree)",
+      "extraInfo": "(Climb leaves)"
+    },
+    {
+      "position": {
+        "x": 86,
+        "y": 89,
+        "z": 66
+      },
+      "location": "HUB",
+      "description": "Wilderness (In the tree)",
+      "extraInfo": "(Climb leaves)"
+    },
+    {
+      "position": {
+        "x": 82,
+        "y": 61,
+        "z": 196
+      },
+      "location": "HUB",
+      "description": "Wilderness (South edge of island)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 180,
+        "y": 64,
+        "z": -15
+      },
+      "location": "HUB",
+      "description": "Wilderness (Secret room on edge of island. Stand on the edge of 187,?69,?-17 and the entrance is below you. It can be tricky to drop in, so items may help)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 169,
+        "y": 60,
+        "z": 129
+      },
+      "location": "HUB",
+      "description": "Wilderness (There is a ladder on the side of the tree that is facing the edge)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -141,
+        "y": 77,
+        "z": -30
+      },
+      "location": "HUB",
+      "description": "Forest (On the side of the house)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -225,
+        "y": 72,
+        "z": -20
+      },
+      "location": "HUB",
+      "description": "Forest (Next to The Park Warp)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -208,
+        "y": 70,
+        "z": -79
+      },
+      "location": "HUB",
+      "description": "Forest (At the very edge of the map, it\u0027s inside the wall separating the Graveyard and the Forest)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -31,
+        "y": 71,
+        "z": 21
+      },
+      "location": "HUB",
+      "description": "Mountain (underground village)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 7,
+        "y": 75,
+        "z": 13
+      },
+      "location": "HUB",
+      "description": "Mountain (underground village)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -47,
+        "y": 76,
+        "z": 47
+      },
+      "location": "HUB",
+      "description": "Mountain (underground village)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -59,
+        "y": 108,
+        "z": 3
+      },
+      "location": "HUB",
+      "description": "Mountain (rock right of entrance from village)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -56,
+        "y": 115,
+        "z": 28
+      },
+      "location": "HUB",
+      "description": "Mountain (in the waterfall)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -49,
+        "y": 132,
+        "z": 32
+      },
+      "location": "HUB",
+      "description": "Mountain (in the water source)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 22,
+        "y": 132,
+        "z": 25
+      },
+      "location": "HUB",
+      "description": "Mountain (east side of mountain)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -52,
+        "y": 161,
+        "z": 43
+      },
+      "location": "HUB",
+      "description": "Mountain (under the wooden platform)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 11,
+        "y": 178,
+        "z": 22
+      },
+      "location": "HUB",
+      "description": "Mountain (under backside of house)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 2,
+        "y": 181,
+        "z": 31
+      },
+      "location": "HUB",
+      "description": "Mountain (right side of house in a corner)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -38,
+        "y": 191,
+        "z": 34
+      },
+      "location": "HUB",
+      "description": "Mountain (on smaller peak west of the peak)",
+      "extraInfo": "(Requires parkour skill or use ender pearl or grappling hook gadget)"
+    },
+    {
+      "position": {
+        "x": -2,
+        "y": 193,
+        "z": 32
+      },
+      "location": "HUB",
+      "description": "Mountain (next to support pillar)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 57,
+        "y": 90,
+        "z": 79
+      },
+      "location": "HUB",
+      "description": "Mountain (small tree near Wizard\u0027s tower, jump down from tower)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 48,
+        "y": 78,
+        "z": 81
+      },
+      "location": "HUB",
+      "description": "Wizard Tower (under wooden platform)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 43,
+        "y": 120,
+        "z": 70
+      },
+      "location": "HUB",
+      "description": "Wizard Tower (leaves in the bedroom)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 49,
+        "y": 121,
+        "z": 69
+      },
+      "location": "HUB",
+      "description": "Wizard Tower (go outside the east window on the top floor and go left)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 40,
+        "y": 108,
+        "z": 78
+      },
+      "location": "HUB",
+      "description": "Wizard Tower (leaves on south side of tower)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 43,
+        "y": 152,
+        "z": 73
+      },
+      "location": "HUB",
+      "description": "Wizard Tower (top of the tower)",
+      "extraInfo": "(Ender pearls or Grappling Hook required)"
+    },
+    {
+      "position": {
+        "x": -95,
+        "y": 72,
+        "z": -130
+      },
+      "location": "HUB",
+      "description": "Graveyard",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -186,
+        "y": 92,
+        "z": -103
+      },
+      "location": "HUB",
+      "description": "Graveyard",
+      "extraInfo": "(Climb Forest leaves)"
+    },
+    {
+      "position": {
+        "x": -32,
+        "y": 76,
+        "z": -212
+      },
+      "location": "HUB",
+      "description": "Graveyard (secret room at -42,?81,?-207)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 155,
+        "y": 62,
+        "z": 28
+      },
+      "location": "HUB",
+      "description": "Fisherman\u0027s Hut (between 4 lily pads, at the bottom the lake)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 176,
+        "y": 64,
+        "z": 42
+      },
+      "location": "HUB",
+      "description": "Fisherman\u0027s Hut (behind the hut)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 162,
+        "y": 45,
+        "z": 69
+      },
+      "location": "HUB",
+      "description": "Fisherman\u0027s Hut (east edge of the water)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 147,
+        "y": 53,
+        "z": 88
+      },
+      "location": "HUB",
+      "description": "Fisherman\u0027s Hut (Secret room, hole at 148,?61,?92)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 73,
+        "y": 71,
+        "z": -189
+      },
+      "location": "HUB",
+      "description": "Hub Island Farm (left of the Barn teleport pad)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 104,
+        "y": 75,
+        "z": -130
+      },
+      "location": "HUB",
+      "description": "Hub Island Farm (Small tree north of Colosseum and east of hub farm Windmill, near Minikloon\u0027s House)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 69,
+        "y": 89,
+        "z": -149
+      },
+      "location": "HUB",
+      "description": "Hub Island Farm (on top of windmill)",
+      "extraInfo": "(Requires enderpearls or Grappling Hook)"
+    },
+    {
+      "position": {
+        "x": 34,
+        "y": 72,
+        "z": -161
+      },
+      "location": "HUB",
+      "description": "Hub Island Farm (inside left stall of barn)",
+      "extraInfo": "(requires parkour and may require extra speed)"
+    },
+    {
+      "position": {
+        "x": -228,
+        "y": 123,
+        "z": 84
+      },
+      "location": "HUB",
+      "description": "Ruins (Castle; leaves on highest tower without roof)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -207,
+        "y": 101,
+        "z": 66
+      },
+      "location": "HUB",
+      "description": "Ruins (Castle; leaves behind tower left of entrance gate)",
+      "extraInfo": "(from around)"
+    },
+    {
+      "position": {
+        "x": -258,
+        "y": 115,
+        "z": 86
+      },
+      "location": "HUB",
+      "description": "Ruins (Castle; leaves on south of dining room)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -261,
+        "y": 102,
+        "z": 66
+      },
+      "location": "HUB",
+      "description": "Ruins (Castle; leaves inside northwest outer walls)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -251,
+        "y": 132,
+        "z": 51
+      },
+      "location": "HUB",
+      "description": "Ruins (Castle; red roof of highest tower)",
+      "extraInfo": "(Requires Parkour)"
+    },
+    {
+      "position": {
+        "x": -260,
+        "y": 96,
+        "z": 48
+      },
+      "location": "HUB",
+      "description": "Ruins (Castle; outside northwest outer walls)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -232,
+        "y": 86,
+        "z": 84
+      },
+      "location": "HUB",
+      "description": "Ruins (Castle; blocked staircase going down)",
+      "extraInfo": "(Requires enderpearls or Grappling Hook)"
+    },
+    {
+      "position": {
+        "x": -214,
+        "y": 102,
+        "z": 88
+      },
+      "location": "HUB",
+      "description": "Ruins (Castle; in the largest tree)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -195,
+        "y": 55,
+        "z": 153
+      },
+      "location": "HUB",
+      "description": "Ruins (south edge of island, below cliff, you will need to fall to reach it (high chance of death))",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -244,
+        "y": 75,
+        "z": 149
+      },
+      "location": "HUB",
+      "description": "Ruins (tree at south edge of island, below cliff)",
+      "extraInfo": "(from above)"
+    },
+    {
+      "position": {
+        "x": -151,
+        "y": 67,
+        "z": 123
+      },
+      "location": "HUB",
+      "description": "Ruins (leaves on ruins southeast of castle)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -260,
+        "y": 56,
+        "z": 115
+      },
+      "location": "HUB",
+      "description": "Ruins (below the southwest part of the castle)",
+      "extraInfo": "(have to drop down a ways)"
+    },
+    {
+      "position": {
+        "x": -132,
+        "y": 73,
+        "z": 132
+      },
+      "location": "HUB",
+      "description": "Ruins (furthest tree southeast of castle)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -190,
+        "y": 102,
+        "z": 109
+      },
+      "location": "HUB",
+      "description": "Ruins (on top of tree directly southeast of castle)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -182,
+        "y": 80,
+        "z": 29
+      },
+      "location": "HUB",
+      "description": "Ruins (between rocks)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -165,
+        "y": 79,
+        "z": 93
+      },
+      "location": "HUB",
+      "description": "Ruins (below broken house outside of castle)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -247,
+        "y": 74,
+        "z": 125
+      },
+      "location": "HUB",
+      "description": "Ruins (drop down from the rock, entry of the room at -253,?74,?128)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -5,
+        "y": 65,
+        "z": -178
+      },
+      "location": "HUB",
+      "description": "Coal Mine (right from entrance, behind post)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -20,
+        "y": 79,
+        "z": -165
+      },
+      "location": "HUB",
+      "description": "Coal Mine (hanging platform inside)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -33,
+        "y": 67,
+        "z": -149
+      },
+      "location": "HUB",
+      "description": "Coal Mine (secret railway)",
+      "extraInfo": "(If the minecart is not there, use an ender-pearl to get inside)"
+    },
+    {
+      "position": {
+        "x": -91,
+        "y": 59,
+        "z": -137
+      },
+      "location": "HUB",
+      "description": "Catacombs Entrance (behind wool)",
+      "extraInfo": "(Stand at -91,?55,?-137 and click the wool above)"
+    }
+  ],
+  "THE_BARN": [
+    {
+      "position": {
+        "x": 182,
+        "y": 99,
+        "z": -235
+      },
+      "location": "THE_BARN",
+      "description": "In east aqueduct",
+      "extraInfo": "(go up water)"
+    },
+    {
+      "position": {
+        "x": 96,
+        "y": 96,
+        "z": -287
+      },
+      "location": "THE_BARN",
+      "description": "3rd floor of the windmill",
+      "extraInfo": "(Requires enderpearls or Grappling Hook)"
+    },
+    {
+      "position": {
+        "x": 143,
+        "y": 90,
+        "z": -242
+      },
+      "location": "THE_BARN",
+      "description": "On the side of the top of the chimney",
+      "extraInfo": "(Requires enderpearls or Grappling Hook)"
+    },
+    {
+      "position": {
+        "x": 99,
+        "y": 112,
+        "z": -274
+      },
+      "location": "THE_BARN",
+      "description": "On the sail of the windmill",
+      "extraInfo": "(Requires enderpearls or Grappling Hook; most easily done by going up the water and enderpearling from the aqueduct)"
+    },
+    {
+      "position": {
+        "x": 183,
+        "y": 99,
+        "z": -304
+      },
+      "location": "THE_BARN",
+      "description": "Behind east mountains",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 126,
+        "y": 91,
+        "z": -303
+      },
+      "location": "THE_BARN",
+      "description": "Inside water from west mountain",
+      "extraInfo": "(go up water)"
+    },
+    {
+      "position": {
+        "x": 157,
+        "y": 23,
+        "z": -202
+      },
+      "location": "THE_BARN",
+      "description": "The lowest point of the root at the south of the island",
+      "extraInfo": "(jump off the side and strafe towards the mossy cobblestone)"
+    }
+  ],
+  "MUSHROOM_DESERT": [
+    {
+      "position": {
+        "x": 152,
+        "y": 67,
+        "z": -361
+      },
+      "location": "MUSHROOM_DESERT",
+      "description": "Desert Settlement; Below the launch pad",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 145,
+        "y": 77,
+        "z": -374
+      },
+      "location": "MUSHROOM_DESERT",
+      "description": "Desert Settlement; In the house (requires the Wooden Planks at 144,?77,?-374 to be broken)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 111,
+        "y": 63,
+        "z": -447
+      },
+      "location": "MUSHROOM_DESERT",
+      "description": "Oasis; Below the pier",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 150,
+        "y": 60,
+        "z": -448
+      },
+      "location": "MUSHROOM_DESERT",
+      "description": "Oasis; In the secret room behind the waterfall",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 138,
+        "y": 72,
+        "z": -587
+      },
+      "location": "MUSHROOM_DESERT",
+      "description": "Mushroom Desert; Under the island, use the waterfall",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 279,
+        "y": 112,
+        "z": -541
+      },
+      "location": "MUSHROOM_DESERT",
+      "description": "Trappers Den; On the wooden platform up above (in case of using the parkour, break the Oak Log at 278,?111,?-541)",
+      "extraInfo": "(Parkour, there\u0027s an invisible block above the Crafting Table the player can jump on)"
+    },
+    {
+      "position": {
+        "x": 387,
+        "y": 77,
+        "z": -365
+      },
+      "location": "MUSHROOM_DESERT",
+      "description": "Shepherds Keep; There\u0027s a secret entrance at 390,?84,?-365)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 261,
+        "y": 133,
+        "z": -348
+      },
+      "location": "MUSHROOM_DESERT",
+      "description": "Mushroom Desert",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 273,
+        "y": 141,
+        "z": -467
+      },
+      "location": "MUSHROOM_DESERT",
+      "description": "Mushroom Desert; Under the bridge",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 263,
+        "y": 177,
+        "z": -565
+      },
+      "location": "MUSHROOM_DESERT",
+      "description": "Mushroom Desert; Under Jake\u0027s House",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 254,
+        "y": 69,
+        "z": -493
+      },
+      "location": "MUSHROOM_DESERT",
+      "description": "Mushroom Gorge; Jump on the cliff from 253,?73,?-473, the entrance to the Fairy Soul room is located at 263,?71,?-488",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 193,
+        "y": 66,
+        "z": -468
+      },
+      "location": "MUSHROOM_DESERT",
+      "description": "Glowing Mushroom Cave; On top of the water flow",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 271,
+        "y": 56,
+        "z": -361
+      },
+      "location": "MUSHROOM_DESERT",
+      "description": "Overgrown Mushroom Cave; Behind the door of the little hobbit hole",
+      "extraInfo": ""
+    }
+  ],
+  "GOLD_MINE": [
+    {
+      "position": {
+        "x": 22,
+        "y": 36,
+        "z": -318
+      },
+      "location": "GOLD_MINE",
+      "description": "Bottom of island, drop down hole at 22,?84,?-319",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -18,
+        "y": 142,
+        "z": -363
+      },
+      "location": "GOLD_MINE",
+      "description": "Highest point",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 18,
+        "y": 57,
+        "z": -339
+      },
+      "location": "GOLD_MINE",
+      "description": "Near platform in cave right from entrance",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -37,
+        "y": 78,
+        "z": -308
+      },
+      "location": "GOLD_MINE",
+      "description": "Next to blacksmith\u0027s room",
+      "extraInfo": "(Outside)"
+    },
+    {
+      "position": {
+        "x": -46,
+        "y": 75,
+        "z": -297
+      },
+      "location": "GOLD_MINE",
+      "description": "Near the blacksmith in the lava",
+      "extraInfo": "(Lava)"
+    },
+    {
+      "position": {
+        "x": -61,
+        "y": 104,
+        "z": -288
+      },
+      "location": "GOLD_MINE",
+      "description": "Mountain behind the blacksmith\u0027s building",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -44,
+        "y": 100,
+        "z": -344
+      },
+      "location": "GOLD_MINE",
+      "description": "Lava stream at top of left mountains",
+      "extraInfo": "(Behind lava)"
+    },
+    {
+      "position": {
+        "x": -25,
+        "y": 94,
+        "z": -339
+      },
+      "location": "GOLD_MINE",
+      "description": "Left side (facing entrance) of highest yellow rim",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -22,
+        "y": 114,
+        "z": -351
+      },
+      "location": "GOLD_MINE",
+      "description": "Mountain",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 18,
+        "y": 87,
+        "z": -310
+      },
+      "location": "GOLD_MINE",
+      "description": "Right side of lowest yellow rim",
+      "extraInfo": "(climb mountain)"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 80,
+        "z": -336
+      },
+      "location": "GOLD_MINE",
+      "description": "Behind fire right of Lazy Miner",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -10,
+        "y": 76,
+        "z": -396
+      },
+      "location": "GOLD_MINE",
+      "description": "On top of portal to Deep Cavern",
+      "extraInfo": "(from above)"
+    }
+  ],
+  "DEEP_CAVERNS": [
+    {
+      "position": {
+        "x": 9,
+        "y": 170,
+        "z": 44
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Top of gate inside",
+      "extraInfo": "(Requires enderpearls or grappling hook gadget)"
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 152,
+        "z": 85
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Below portal to Gold Mine",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 182,
+        "z": 50
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Top of entrance",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 72,
+        "y": 167,
+        "z": -11
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "East edge of the island",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -2,
+        "y": 255,
+        "z": -1
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Mountaintop",
+      "extraInfo": "(parkour skills needed)"
+    },
+    {
+      "position": {
+        "x": 57,
+        "y": 161,
+        "z": 19
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Gunpowder Mines (top of elevator)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 29,
+        "y": 149,
+        "z": 16
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Gunpowder Mines (lowest cave)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -17,
+        "y": 161,
+        "z": 23
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Gunpowder Mines (above platform, behind mossy brick)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 22,
+        "y": 156,
+        "z": -41
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Gunpowder Mines (behind wall, talk to Walter next to it for TNT)",
+      "extraInfo": "(requires Superboom TNT)"
+    },
+    {
+      "position": {
+        "x": -34,
+        "y": 127,
+        "z": 28
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Lapis Quarry",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 44,
+        "y": 98,
+        "z": 23
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Pigman\u0027s Den (left side of the lift exit)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -10,
+        "y": 102,
+        "z": -15
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Pigman\u0027s Den",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 18,
+        "y": 73,
+        "z": 74
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Slimehill (waterfall near entrance to Slimehill)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -39,
+        "y": 73,
+        "z": 1
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Slimehill (in the leaves next to a pole)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 64,
+        "z": 56
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Slimehill (near leaves)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -8,
+        "y": 74,
+        "z": -42
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Slimehill (near a structure)",
+      "extraInfo": "(Slime Knockback)"
+    },
+    {
+      "position": {
+        "x": -20,
+        "y": 25,
+        "z": 71
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Diamond Reserve (cave to Obsidian Sanc.)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -58,
+        "y": 37,
+        "z": 52
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Diamond Reserve (to the right from entrance)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -72,
+        "y": 12,
+        "z": 5
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Obsidian Sanctuary",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 2,
+        "y": 14,
+        "z": 51
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Obsidian Sanctuary (inside rib cage)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -75,
+        "y": 13,
+        "z": 24
+      },
+      "location": "DEEP_CAVERNS",
+      "description": "Obsidian Sanctuary (In the Lava)",
+      "extraInfo": "(Lava)"
+    }
+  ],
+  "DWARVEN_MINES": [
+    {
+      "position": {
+        "x": -8,
+        "y": 231,
+        "z": -134
+      },
+      "location": "DWARVEN_MINES",
+      "description": "Dwarven Village (In brazier)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 22,
+        "y": 127,
+        "z": 184
+      },
+      "location": "DWARVEN_MINES",
+      "description": "Dwarven Mines (Leaf Parkour in Dirt Guy Room). Found via underground rail network",
+      "extraInfo": "(Parkour)"
+    },
+    {
+      "position": {
+        "x": -203,
+        "y": 131,
+        "z": 197
+      },
+      "location": "DWARVEN_MINES",
+      "description": "Goblin Burrows (Natural platform in back)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -108,
+        "y": 141,
+        "z": 143
+      },
+      "location": "DWARVEN_MINES",
+      "description": "Goblin Burrows (Across bridge from room full of gold). Found via underground rail network",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -115,
+        "y": 141,
+        "z": 154
+      },
+      "location": "DWARVEN_MINES",
+      "description": "Goblin Burrows (Accessible from top of green banner in bridge room). Found via underground rail network",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 133,
+        "y": 104,
+        "z": 104
+      },
+      "location": "DWARVEN_MINES",
+      "description": "Dwarven Mines (Under platform in large chamber with gold veins). Found via underground rail network",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -20,
+        "y": 208,
+        "z": -58
+      },
+      "location": "DWARVEN_MINES",
+      "description": "Dwarven Mines (On top of entrance to Rampart\u0027s Quarry, Rampart\u0027s Quarry side)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 155,
+        "y": 190,
+        "z": 123
+      },
+      "location": "DWARVEN_MINES",
+      "description": "Royal Palace (Under Lava)",
+      "extraInfo": "(Lava)"
+    },
+    {
+      "position": {
+        "x": -138,
+        "y": 219,
+        "z": -85
+      },
+      "location": "DWARVEN_MINES",
+      "description": "Upper Mines (Leaf parkour), entrance at -118,?206,?-58",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 34,
+        "y": 102,
+        "z": 87
+      },
+      "location": "DWARVEN_MINES",
+      "description": "Divan\u0027s Gateway (Hidden by snow near the Mist)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -52,
+        "y": 205,
+        "z": 48
+      },
+      "location": "DWARVEN_MINES",
+      "description": "Cliffside Veins (Hidden in the room where the Cult of the Fallen Star has its meetings, entrance at -25, 198, 40)",
+      "extraInfo": "(From Lava Springs)"
+    }
+  ],
+  "SPIDERS_DEN": [
+    {
+      "position": {
+        "x": -197,
+        "y": 160,
+        "z": -330
+      },
+      "location": "SPIDERS_DEN",
+      "description": "Inside the wall on a small edge (new)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -184,
+        "y": 135,
+        "z": -289
+      },
+      "location": "SPIDERS_DEN",
+      "description": "Inside the wall",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -202,
+        "y": 169,
+        "z": -319
+      },
+      "location": "SPIDERS_DEN",
+      "description": "Near the top of the mountain, drop down from above",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -300,
+        "y": 92,
+        "z": -170
+      },
+      "location": "SPIDERS_DEN",
+      "description": "In the pond",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -296,
+        "y": 90,
+        "z": -168
+      },
+      "location": "SPIDERS_DEN",
+      "description": "Cave inside the pond, entrance at -301,?91,?-165",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -293,
+        "y": 36,
+        "z": -273
+      },
+      "location": "SPIDERS_DEN",
+      "description": "Inside a boulder, entrance at -291,?51,?-271",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -308,
+        "y": 63,
+        "z": -184
+      },
+      "location": "SPIDERS_DEN",
+      "description": "Inside the wall on a mushroom, walkable with a two block jump",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -308,
+        "y": 66,
+        "z": -244
+      },
+      "location": "SPIDERS_DEN",
+      "description": "Inside the wall (new)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -203,
+        "y": 94,
+        "z": -240
+      },
+      "location": "SPIDERS_DEN",
+      "description": "On a tree",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -278,
+        "y": 127,
+        "z": -176
+      },
+      "location": "SPIDERS_DEN",
+      "description": "On top of the cabin, near the chimney",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -335,
+        "y": 82,
+        "z": -152
+      },
+      "location": "SPIDERS_DEN",
+      "description": "In a cave, follow the trail of daisy flowers and look under the edge",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -421,
+        "y": 106,
+        "z": -205
+      },
+      "location": "SPIDERS_DEN",
+      "description": "Requires walking over invisible barrier blocks (starting at -391,?107,?-219, follow the poppy flowers) which can be traversed by crouching to not fall off.",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -335,
+        "y": 111,
+        "z": -252
+      },
+      "location": "SPIDERS_DEN",
+      "description": "Inside the skeleton\u0027s mouth, underneath middle bones",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -321,
+        "y": 95,
+        "z": -280
+      },
+      "location": "SPIDERS_DEN",
+      "description": "Inside a small cave, entrance at -326,?97,?-286",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -221,
+        "y": 74,
+        "z": -361
+      },
+      "location": "SPIDERS_DEN",
+      "description": "Stand at -224,?85,?-359 and drop down to the block beneath",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -139,
+        "y": 85,
+        "z": -334
+      },
+      "location": "SPIDERS_DEN",
+      "description": "Stand at -138,?85,?-332",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -146,
+        "y": 78,
+        "z": -298
+      },
+      "location": "SPIDERS_DEN",
+      "description": "Next to the edge",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -168,
+        "y": 62,
+        "z": -288
+      },
+      "location": "SPIDERS_DEN",
+      "description": "Behind the gravel in the wall",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -159,
+        "y": 62,
+        "z": -274
+      },
+      "location": "SPIDERS_DEN",
+      "description": "Behind the gravel in the wall",
+      "extraInfo": ""
+    }
+  ],
+  "CRIMSON_ISLE": [
+    {
+      "position": {
+        "x": -373,
+        "y": 172,
+        "z": -682
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "North mountain, in front of Magma Boss field",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -298,
+        "y": 75,
+        "z": -543
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "Right side of the bridge",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -320,
+        "y": 78,
+        "z": -503
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "Left side of the bridge",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -431,
+        "y": 79,
+        "z": -563
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "West edge of the island",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -180,
+        "y": 90,
+        "z": -607
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "East edge of the island",
+      "extraInfo": "(Barrier Blocks)"
+    },
+    {
+      "position": {
+        "x": -308,
+        "y": 146,
+        "z": -426
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "On top of the highest double-roof castle",
+      "extraInfo": "(need Ender Pearl, or Grappling hook)"
+    },
+    {
+      "position": {
+        "x": -432,
+        "y": 208,
+        "z": -578
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "At the top of the mountain",
+      "extraInfo": "(need Ender Pearl)"
+    },
+    {
+      "position": {
+        "x": -321,
+        "y": 139,
+        "z": -442
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "In front of the middle flaming-hopper on the wall",
+      "extraInfo": "(need Ender Pearl)"
+    },
+    {
+      "position": {
+        "x": -372,
+        "y": 136,
+        "z": -397
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "At the edge of the roof",
+      "extraInfo": "(need Ender Pearl or Grappling hook)"
+    },
+    {
+      "position": {
+        "x": -317,
+        "y": 203,
+        "z": -739
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "North edge of the island",
+      "extraInfo": "(need speed boost technique)"
+    },
+    {
+      "position": {
+        "x": -306,
+        "y": 107,
+        "z": -691
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "Secret room",
+      "extraInfo": "(Entrance at -305,?107,?-704)"
+    },
+    {
+      "position": {
+        "x": -312,
+        "y": 96,
+        "z": -401
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "Under the staircase to the left",
+      "extraInfo": "(No need to mine the block, directly under stairs."
+    },
+    {
+      "position": {
+        "x": -213,
+        "y": 62,
+        "z": -481
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "East edge of the island",
+      "extraInfo": "(may require lava resistance)"
+    },
+    {
+      "position": {
+        "x": -346,
+        "y": 133,
+        "z": -694
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "North edge of the island",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -385,
+        "y": 104,
+        "z": -461
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "In glowstone ravine left of spawn; on the large bones along the ceiling",
+      "extraInfo": "(Climb lava)"
+    },
+    {
+      "position": {
+        "x": -378,
+        "y": 119,
+        "z": -477
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "Inside the lava",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -336,
+        "y": 92,
+        "z": -447
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "Inside the lava. Can be clicked from outside the lava.",
+      "extraInfo": "(may require lava resistance)"
+    },
+    {
+      "position": {
+        "x": -235,
+        "y": 85,
+        "z": -591
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "In the middle of the flowing lava, at the center of the lava pool.",
+      "extraInfo": "(may require lava resistance)"
+    },
+    {
+      "position": {
+        "x": -311,
+        "y": 39,
+        "z": -676
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "Use the lever to open a secret entrance (lever at -308,?113,?-676)",
+      "extraInfo": "(Beware of falling damage)"
+    },
+    {
+      "position": {
+        "x": -717,
+        "y": 164,
+        "z": -980
+      },
+      "location": "CRIMSON_ISLE",
+      "description": "At the barbarian bastion",
+      "extraInfo": ""
+    }
+  ],
+  "THE_END": [
+    {
+      "position": {
+        "x": -518,
+        "y": 100,
+        "z": -293
+      },
+      "location": "THE_END",
+      "description": "Pearl Dealer Shop",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -581,
+        "y": 208,
+        "z": -272
+      },
+      "location": "THE_END",
+      "description": "On top of the Mound (the tallest spike)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -588,
+        "y": 122,
+        "z": -274
+      },
+      "location": "THE_END",
+      "description": "In an Obsidian Spike",
+      "extraInfo": "(entrance at -595,?122,?-266)"
+    },
+    {
+      "position": {
+        "x": -698,
+        "y": 116,
+        "z": -255
+      },
+      "location": "THE_END",
+      "description": "In the crack",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -586,
+        "y": 48,
+        "z": -292
+      },
+      "location": "THE_END",
+      "description": "On wall rock above Dragon\u0027s Nest entrance",
+      "extraInfo": "(possible with grappling hook)"
+    },
+    {
+      "position": {
+        "x": -657,
+        "y": 36,
+        "z": -200
+      },
+      "location": "THE_END",
+      "description": "In hidden base, outside",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -490,
+        "y": 23,
+        "z": -174
+      },
+      "location": "THE_END",
+      "description": "Under flowerpot",
+      "extraInfo": "(Need to fall)"
+    },
+    {
+      "position": {
+        "x": -489,
+        "y": 79,
+        "z": -274
+      },
+      "location": "THE_END",
+      "description": "In purple \"waterfall\"",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -546,
+        "y": 91,
+        "z": -258
+      },
+      "location": "THE_END",
+      "description": "On wall",
+      "extraInfo": "(Stand on bones)"
+    },
+    {
+      "position": {
+        "x": -609,
+        "y": 84,
+        "z": -231
+      },
+      "location": "THE_END",
+      "description": "Dragon\u0027s Nest (On wall)",
+      "extraInfo": "(possible with grappling hook)"
+    },
+    {
+      "position": {
+        "x": -720,
+        "y": 76,
+        "z": -220
+      },
+      "location": "THE_END",
+      "description": "Dragon\u0027s Nest (On wall)",
+      "extraInfo": "(possible with grappling hook)"
+    },
+    {
+      "position": {
+        "x": -747,
+        "y": 105,
+        "z": -282
+      },
+      "location": "THE_END",
+      "description": "Under stairs",
+      "extraInfo": ""
+    }
+  ],
+  "THE_PARK": [
+    {
+      "position": {
+        "x": -293,
+        "y": 85,
+        "z": 31
+      },
+      "location": "THE_PARK",
+      "description": "Birch park - On the corner of a rock near the edge",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -315,
+        "y": 89,
+        "z": -72
+      },
+      "location": "THE_PARK",
+      "description": "Birch park - Above Vanessa\u0027s hut",
+      "extraInfo": "(some parkour)"
+    },
+    {
+      "position": {
+        "x": -390,
+        "y": 60,
+        "z": -5
+      },
+      "location": "THE_PARK",
+      "description": "Birch park - Inside the Howling Cave (swim up the water flowing from the roof.) Once inside, aim for the bottom left, towards the waterfall. At the top of the waterfall is the soul.",
+      "extraInfo": "(requires Superboom TNT)"
+    },
+    {
+      "position": {
+        "x": -356,
+        "y": 99,
+        "z": 79
+      },
+      "location": "THE_PARK",
+      "description": "Spruce Woods - Above the Melancholic Viking house",
+      "extraInfo": "(requires Grappling Hook or Ender Pearl)"
+    },
+    {
+      "position": {
+        "x": -386,
+        "y": 108,
+        "z": -69
+      },
+      "location": "THE_PARK",
+      "description": "Dark Thicket - In ice cave behind the waterfall near bridge",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -403,
+        "y": 136,
+        "z": 6
+      },
+      "location": "THE_PARK",
+      "description": "Savanna Woodland - On top of the tallest acacia tree",
+      "extraInfo": "(requires Grappling Hook or Ender Pearl)"
+    },
+    {
+      "position": {
+        "x": -454,
+        "y": 120,
+        "z": -58
+      },
+      "location": "THE_PARK",
+      "description": "Jungle Island - On the side of a rock near the edge",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -408,
+        "y": 122,
+        "z": -92
+      },
+      "location": "THE_PARK",
+      "description": "Jungle Island - Next to staircase (near checkpoint for woods racing)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -451,
+        "y": 113,
+        "z": -87
+      },
+      "location": "THE_PARK",
+      "description": "Jungle Island - Under the last left clay bundle to the way to Juliette (go down the leaves)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -370,
+        "y": 111,
+        "z": -118
+      },
+      "location": "THE_PARK",
+      "description": "Jungle Island - On the right of the staircase to the woods racing checkpoint (Jump Down)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -470,
+        "y": 132,
+        "z": -124
+      },
+      "location": "THE_PARK",
+      "description": "Jungle Island - Next to Juliette",
+      "extraInfo": ""
+    }
+  ],
+  "WINTER_ISLAND": [
+    {
+      "position": {
+        "x": -94,
+        "y": 77,
+        "z": 20
+      },
+      "location": "WINTER_ISLAND",
+      "description": "Jerry Pond - Behind of Terry\u0027s House (fishing pond)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -43,
+        "y": 87,
+        "z": 76
+      },
+      "location": "WINTER_ISLAND",
+      "description": "Jerry\u0027s Workshop - On the roof",
+      "extraInfo": "(parkour)"
+    },
+    {
+      "position": {
+        "x": -6,
+        "y": 107,
+        "z": 111
+      },
+      "location": "WINTER_ISLAND",
+      "description": "Jerry\u0027s Workshop - Near the top of the tree. It can be reached by hitting it from underneath or by standing at -1,?107,?112.",
+      "extraInfo": "(parkour)"
+    },
+    {
+      "position": {
+        "x": 56,
+        "y": 108,
+        "z": 64
+      },
+      "location": "WINTER_ISLAND",
+      "description": "Jerry\u0027s Workshop - Behind of Gary\u0027s House (on the hill)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 74,
+        "y": 109,
+        "z": -17
+      },
+      "location": "WINTER_ISLAND",
+      "description": "Jerry\u0027s Workshop - Another hill next to the Chicken Racing",
+      "extraInfo": ""
+    }
+  ],
+  "DUNGEON_HUB": [
+    {
+      "position": {
+        "x": 15,
+        "y": 125,
+        "z": -58
+      },
+      "location": "DUNGEON_HUB",
+      "description": "In the fire near the statue on the right of the entrance",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 2,
+        "y": 135,
+        "z": 75
+      },
+      "location": "DUNGEON_HUB",
+      "description": "On the mouth of the statue on the left of the entrance",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 8,
+        "y": 164,
+        "z": -8
+      },
+      "location": "DUNGEON_HUB",
+      "description": "Near the roof at the middle of the hub (middle-left)",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -138,
+        "y": 47,
+        "z": -2
+      },
+      "location": "DUNGEON_HUB",
+      "description": "In the caves on top of a banner by the ruins.",
+      "extraInfo": "(parkour)"
+    },
+    {
+      "position": {
+        "x": -55,
+        "y": 82,
+        "z": -9
+      },
+      "location": "DUNGEON_HUB",
+      "description": "In the caves on top of the entrance to the ruins.",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": -3,
+        "y": 21,
+        "z": -16
+      },
+      "location": "DUNGEON_HUB",
+      "description": "Inside the crystal at the right of the entrance that leads to the purple crystal cave.",
+      "extraInfo": ""
+    },
+    {
+      "position": {
+        "x": 11,
+        "y": 60,
+        "z": 99
+      },
+      "location": "DUNGEON_HUB",
+      "description": "Above the giant mushrooms on a branch next to the prismarine roof.",
+      "extraInfo": ""
+    }
+  ]
+}
