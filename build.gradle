@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+}
+
+group 'net.bruhitsalex.fairysouldownloader'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.jsoup:jsoup:1.14.3'
+}
+
+test {
+    useJUnitPlatform()
+}
