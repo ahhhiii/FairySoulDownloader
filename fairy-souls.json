@@ -7,7 +7,7 @@
         "z": -87
       },
       "location": "HUB",
-      "description": "Village (Behind Relenter\u0027s House, on border with graveyard)",
+      "description": "Village (Behind Relenter's House, on border with graveyard)",
       "extraInfo": ""
     },
     {
@@ -37,7 +37,7 @@
         "z": -99
       },
       "location": "HUB",
-      "description": "Village (Under Auction House, stand in bush at -50,?70,?-101)",
+      "description": "Village (Under Auction House, stand in bush at -50, 70, -101)",
       "extraInfo": ""
     },
     {
@@ -47,7 +47,7 @@
         "z": -63
       },
       "location": "HUB",
-      "description": "Village (Under Alchemist\u0027s Building, stand at 38 ,?68,?-65)",
+      "description": "Village (Under Alchemist's Building, stand at 38 , 68, -65)",
       "extraInfo": ""
     },
     {
@@ -117,7 +117,7 @@
         "z": -36
       },
       "location": "HUB",
-      "description": "Colosseum (On top one of the Colosseum\u0027s pillars)",
+      "description": "Colosseum (On top one of the Colosseum's pillars)",
       "extraInfo": "(Requires enderpearls or grappling hook gadget)"
     },
     {
@@ -247,7 +247,7 @@
         "z": -15
       },
       "location": "HUB",
-      "description": "Wilderness (Secret room on edge of island. Stand on the edge of 187,?69,?-17 and the entrance is below you. It can be tricky to drop in, so items may help)",
+      "description": "Wilderness (Secret room on edge of island. Stand on the edge of 187, 69, -17 and the entrance is below you. It can be tricky to drop in, so items may help)",
       "extraInfo": ""
     },
     {
@@ -287,7 +287,7 @@
         "z": -79
       },
       "location": "HUB",
-      "description": "Forest (At the very edge of the map, it\u0027s inside the wall separating the Graveyard and the Forest)",
+      "description": "Forest (At the very edge of the map, it's inside the wall separating the Graveyard and the Forest)",
       "extraInfo": ""
     },
     {
@@ -417,7 +417,7 @@
         "z": 79
       },
       "location": "HUB",
-      "description": "Mountain (small tree near Wizard\u0027s tower, jump down from tower)",
+      "description": "Mountain (small tree near Wizard's tower, jump down from tower)",
       "extraInfo": ""
     },
     {
@@ -497,7 +497,7 @@
         "z": -212
       },
       "location": "HUB",
-      "description": "Graveyard (secret room at -42,?81,?-207)",
+      "description": "Graveyard (secret room at -42, 81, -207)",
       "extraInfo": ""
     },
     {
@@ -507,7 +507,7 @@
         "z": 28
       },
       "location": "HUB",
-      "description": "Fisherman\u0027s Hut (between 4 lily pads, at the bottom the lake)",
+      "description": "Fisherman's Hut (between 4 lily pads, at the bottom the lake)",
       "extraInfo": ""
     },
     {
@@ -517,7 +517,7 @@
         "z": 42
       },
       "location": "HUB",
-      "description": "Fisherman\u0027s Hut (behind the hut)",
+      "description": "Fisherman's Hut (behind the hut)",
       "extraInfo": ""
     },
     {
@@ -527,7 +527,7 @@
         "z": 69
       },
       "location": "HUB",
-      "description": "Fisherman\u0027s Hut (east edge of the water)",
+      "description": "Fisherman's Hut (east edge of the water)",
       "extraInfo": ""
     },
     {
@@ -537,7 +537,7 @@
         "z": 88
       },
       "location": "HUB",
-      "description": "Fisherman\u0027s Hut (Secret room, hole at 148,?61,?92)",
+      "description": "Fisherman's Hut (Secret room, hole at 148, 61, 92)",
       "extraInfo": ""
     },
     {
@@ -557,7 +557,7 @@
         "z": -130
       },
       "location": "HUB",
-      "description": "Hub Island Farm (Small tree north of Colosseum and east of hub farm Windmill, near Minikloon\u0027s House)",
+      "description": "Hub Island Farm (Small tree north of Colosseum and east of hub farm Windmill, near Minikloon's House)",
       "extraInfo": ""
     },
     {
@@ -747,7 +747,7 @@
         "z": 125
       },
       "location": "HUB",
-      "description": "Ruins (drop down from the rock, entry of the room at -253,?74,?128)",
+      "description": "Ruins (drop down from the rock, entry of the room at -253, 74, 128)",
       "extraInfo": ""
     },
     {
@@ -788,7 +788,7 @@
       },
       "location": "HUB",
       "description": "Catacombs Entrance (behind wool)",
-      "extraInfo": "(Stand at -91,?55,?-137 and click the wool above)"
+      "extraInfo": "(Stand at -91, 55, -137 and click the wool above)"
     }
   ],
   "THE_BARN": [
@@ -881,7 +881,7 @@
         "z": -374
       },
       "location": "MUSHROOM_DESERT",
-      "description": "Desert Settlement; In the house (requires the Wooden Planks at 144,?77,?-374 to be broken)",
+      "description": "Desert Settlement; In the house (requires the Wooden Planks at 144, 77, -374 to be broken)",
       "extraInfo": ""
     },
     {
@@ -921,8 +921,8 @@
         "z": -541
       },
       "location": "MUSHROOM_DESERT",
-      "description": "Trappers Den; On the wooden platform up above (in case of using the parkour, break the Oak Log at 278,?111,?-541)",
-      "extraInfo": "(Parkour, there\u0027s an invisible block above the Crafting Table the player can jump on)"
+      "description": "Trappers Den; On the wooden platform up above (in case of using the parkour, break the Oak Log at 278, 111, -541)",
+      "extraInfo": "(Parkour, there's an invisible block above the Crafting Table the player can jump on)"
     },
     {
       "position": {
@@ -931,7 +931,7 @@
         "z": -365
       },
       "location": "MUSHROOM_DESERT",
-      "description": "Shepherds Keep; There\u0027s a secret entrance at 390,?84,?-365)",
+      "description": "Shepherds Keep; There's a secret entrance at 390, 84, -365)",
       "extraInfo": ""
     },
     {
@@ -961,7 +961,7 @@
         "z": -565
       },
       "location": "MUSHROOM_DESERT",
-      "description": "Mushroom Desert; Under Jake\u0027s House",
+      "description": "Mushroom Desert; Under Jake's House",
       "extraInfo": ""
     },
     {
@@ -971,7 +971,7 @@
         "z": -493
       },
       "location": "MUSHROOM_DESERT",
-      "description": "Mushroom Gorge; Jump on the cliff from 253,?73,?-473, the entrance to the Fairy Soul room is located at 263,?71,?-488",
+      "description": "Mushroom Gorge; Jump on the cliff from 253, 73, -473, the entrance to the Fairy Soul room is located at 263, 71, -488",
       "extraInfo": ""
     },
     {
@@ -1003,7 +1003,7 @@
         "z": -318
       },
       "location": "GOLD_MINE",
-      "description": "Bottom of island, drop down hole at 22,?84,?-319",
+      "description": "Bottom of island, drop down hole at 22, 84, -319",
       "extraInfo": ""
     },
     {
@@ -1033,7 +1033,7 @@
         "z": -308
       },
       "location": "GOLD_MINE",
-      "description": "Next to blacksmith\u0027s room",
+      "description": "Next to blacksmith's room",
       "extraInfo": "(Outside)"
     },
     {
@@ -1053,7 +1053,7 @@
         "z": -288
       },
       "location": "GOLD_MINE",
-      "description": "Mountain behind the blacksmith\u0027s building",
+      "description": "Mountain behind the blacksmith's building",
       "extraInfo": ""
     },
     {
@@ -1225,7 +1225,7 @@
         "z": 23
       },
       "location": "DEEP_CAVERNS",
-      "description": "Pigman\u0027s Den (left side of the lift exit)",
+      "description": "Pigman's Den (left side of the lift exit)",
       "extraInfo": ""
     },
     {
@@ -1235,7 +1235,7 @@
         "z": -15
       },
       "location": "DEEP_CAVERNS",
-      "description": "Pigman\u0027s Den",
+      "description": "Pigman's Den",
       "extraInfo": ""
     },
     {
@@ -1397,7 +1397,7 @@
         "z": -58
       },
       "location": "DWARVEN_MINES",
-      "description": "Dwarven Mines (On top of entrance to Rampart\u0027s Quarry, Rampart\u0027s Quarry side)",
+      "description": "Dwarven Mines (On top of entrance to Rampart's Quarry, Rampart's Quarry side)",
       "extraInfo": ""
     },
     {
@@ -1417,7 +1417,7 @@
         "z": -85
       },
       "location": "DWARVEN_MINES",
-      "description": "Upper Mines (Leaf parkour), entrance at -118,?206,?-58",
+      "description": "Upper Mines (Leaf parkour), entrance at -118, 206, -58",
       "extraInfo": ""
     },
     {
@@ -1427,7 +1427,7 @@
         "z": 87
       },
       "location": "DWARVEN_MINES",
-      "description": "Divan\u0027s Gateway (Hidden by snow near the Mist)",
+      "description": "Divan's Gateway (Hidden by snow near the Mist)",
       "extraInfo": ""
     },
     {
@@ -1489,7 +1489,7 @@
         "z": -168
       },
       "location": "SPIDERS_DEN",
-      "description": "Cave inside the pond, entrance at -301,?91,?-165",
+      "description": "Cave inside the pond, entrance at -301, 91, -165",
       "extraInfo": ""
     },
     {
@@ -1499,7 +1499,7 @@
         "z": -273
       },
       "location": "SPIDERS_DEN",
-      "description": "Inside a boulder, entrance at -291,?51,?-271",
+      "description": "Inside a boulder, entrance at -291, 51, -271",
       "extraInfo": ""
     },
     {
@@ -1559,7 +1559,7 @@
         "z": -205
       },
       "location": "SPIDERS_DEN",
-      "description": "Requires walking over invisible barrier blocks (starting at -391,?107,?-219, follow the poppy flowers) which can be traversed by crouching to not fall off.",
+      "description": "Requires walking over invisible barrier blocks (starting at -391, 107, -219, follow the poppy flowers) which can be traversed by crouching to not fall off.",
       "extraInfo": ""
     },
     {
@@ -1569,7 +1569,7 @@
         "z": -252
       },
       "location": "SPIDERS_DEN",
-      "description": "Inside the skeleton\u0027s mouth, underneath middle bones",
+      "description": "Inside the skeleton's mouth, underneath middle bones",
       "extraInfo": ""
     },
     {
@@ -1579,7 +1579,7 @@
         "z": -280
       },
       "location": "SPIDERS_DEN",
-      "description": "Inside a small cave, entrance at -326,?97,?-286",
+      "description": "Inside a small cave, entrance at -326, 97, -286",
       "extraInfo": ""
     },
     {
@@ -1589,7 +1589,7 @@
         "z": -361
       },
       "location": "SPIDERS_DEN",
-      "description": "Stand at -224,?85,?-359 and drop down to the block beneath",
+      "description": "Stand at -224, 85, -359 and drop down to the block beneath",
       "extraInfo": ""
     },
     {
@@ -1599,7 +1599,7 @@
         "z": -334
       },
       "location": "SPIDERS_DEN",
-      "description": "Stand at -138,?85,?-332",
+      "description": "Stand at -138, 85, -332",
       "extraInfo": ""
     },
     {
@@ -1742,7 +1742,7 @@
       },
       "location": "CRIMSON_ISLE",
       "description": "Secret room",
-      "extraInfo": "(Entrance at -305,?107,?-704)"
+      "extraInfo": "(Entrance at -305, 107, -704)"
     },
     {
       "position": {
@@ -1821,7 +1821,7 @@
         "z": -676
       },
       "location": "CRIMSON_ISLE",
-      "description": "Use the lever to open a secret entrance (lever at -308,?113,?-676)",
+      "description": "Use the lever to open a secret entrance (lever at -308, 113, -676)",
       "extraInfo": "(Beware of falling damage)"
     },
     {
@@ -1864,7 +1864,7 @@
       },
       "location": "THE_END",
       "description": "In an Obsidian Spike",
-      "extraInfo": "(entrance at -595,?122,?-266)"
+      "extraInfo": "(entrance at -595, 122, -266)"
     },
     {
       "position": {
@@ -1883,7 +1883,7 @@
         "z": -292
       },
       "location": "THE_END",
-      "description": "On wall rock above Dragon\u0027s Nest entrance",
+      "description": "On wall rock above Dragon's Nest entrance",
       "extraInfo": "(possible with grappling hook)"
     },
     {
@@ -1913,7 +1913,7 @@
         "z": -274
       },
       "location": "THE_END",
-      "description": "In purple \"waterfall\"",
+      "description": "In purple 'waterfall'",
       "extraInfo": ""
     },
     {
@@ -1933,7 +1933,7 @@
         "z": -231
       },
       "location": "THE_END",
-      "description": "Dragon\u0027s Nest (On wall)",
+      "description": "Dragon's Nest (On wall)",
       "extraInfo": "(possible with grappling hook)"
     },
     {
@@ -1943,7 +1943,7 @@
         "z": -220
       },
       "location": "THE_END",
-      "description": "Dragon\u0027s Nest (On wall)",
+      "description": "Dragon's Nest (On wall)",
       "extraInfo": "(possible with grappling hook)"
     },
     {
@@ -1975,7 +1975,7 @@
         "z": -72
       },
       "location": "THE_PARK",
-      "description": "Birch park - Above Vanessa\u0027s hut",
+      "description": "Birch park - Above Vanessa's hut",
       "extraInfo": "(some parkour)"
     },
     {
@@ -2077,7 +2077,7 @@
         "z": 20
       },
       "location": "WINTER_ISLAND",
-      "description": "Jerry Pond - Behind of Terry\u0027s House (fishing pond)",
+      "description": "Jerry Pond - Behind of Terry's House (fishing pond)",
       "extraInfo": ""
     },
     {
@@ -2087,7 +2087,7 @@
         "z": 76
       },
       "location": "WINTER_ISLAND",
-      "description": "Jerry\u0027s Workshop - On the roof",
+      "description": "Jerry's Workshop - On the roof",
       "extraInfo": "(parkour)"
     },
     {
@@ -2097,7 +2097,7 @@
         "z": 111
       },
       "location": "WINTER_ISLAND",
-      "description": "Jerry\u0027s Workshop - Near the top of the tree. It can be reached by hitting it from underneath or by standing at -1,?107,?112.",
+      "description": "Jerry's Workshop - Near the top of the tree. It can be reached by hitting it from underneath or by standing at -1, 107, 112.",
       "extraInfo": "(parkour)"
     },
     {
@@ -2107,7 +2107,7 @@
         "z": 64
       },
       "location": "WINTER_ISLAND",
-      "description": "Jerry\u0027s Workshop - Behind of Gary\u0027s House (on the hill)",
+      "description": "Jerry's Workshop - Behind of Gary's House (on the hill)",
       "extraInfo": ""
     },
     {
@@ -2117,7 +2117,7 @@
         "z": -17
       },
       "location": "WINTER_ISLAND",
-      "description": "Jerry\u0027s Workshop - Another hill next to the Chicken Racing",
+      "description": "Jerry's Workshop - Another hill next to the Chicken Racing",
       "extraInfo": ""
     }
   ],

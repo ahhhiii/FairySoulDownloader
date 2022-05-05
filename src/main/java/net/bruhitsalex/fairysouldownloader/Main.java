@@ -76,8 +76,8 @@ public class Main {
             int x = Integer.parseInt(tr.children().get(1).text());
             int y = Integer.parseInt(tr.children().get(2).text());
             int z = Integer.parseInt(tr.children().get(3).text());
-            String area = tr.children().get(4).text().replace("?", " ");
-            String extraInfo = tr.children().get(5).text().replace("?", " ");
+            String area = tr.children().get(4).text().replace('?', ' ');
+            String extraInfo = tr.children().get(5).text().replace('?', ' ');
 
             Entry entry = new Entry(new Position(x, y, z), location, area, extraInfo);
             locToEntries.get(location).add(entry);
